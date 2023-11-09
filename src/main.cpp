@@ -2,7 +2,7 @@
 #include <Wire.h>
 #include <LiquidCrystal_I2C.h>
 #include <ESP32Servo.h>
-//eshan is a scammer. he goes to bali arcade with his beloved imaginary half
+
 #define forcePin 14
 #define ir_1 23
 #define ir_2 19
